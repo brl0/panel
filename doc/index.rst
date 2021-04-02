@@ -154,7 +154,6 @@ The Panel project is grateful for the sponsorship by the organizations and compa
    :hidden:
    :maxdepth: 2
 
-   Home <self>
    Getting Started <getting_started/index>
    User Guide <user_guide/index>
    Gallery <gallery/index>
@@ -165,5 +164,4 @@ The Panel project is grateful for the sponsorship by the organizations and compa
    Releases <releases>
    Road Map <Roadmap>
    FAQ
-   Github source <https://github.com/pyviz/panel>
    About <about>
